@@ -6,14 +6,16 @@ This is where I share what I build, explore, and learn along the way.
 </div>
 
 <div align="center">
+
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LeiCodesGit&show_icons=true&include_all_commits=true&count_private=true&theme=shades-of-purple&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeiCodesGit&show_icons=true&include_all_commits=true&count_private=true&theme=shades-of-purple&hide_border=true" width="380" alt="GitHub Stats" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeiCodesGit&layout=compact&langs_count=5&theme=shades-of-purple&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeiCodesGit&layout=compact&langs_count=5&theme=shades-of-purple&hide_border=true" width="380" alt="Top Languages" />
 
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app?username=LeiCodesGit&theme=dracula&margin-w=8&margin-h=8" height="150" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app?username=LeiCodesGit&theme=dracula&margin-w=8&margin-h=8" width="380" alt="Trophies" />
+
 </div>
 
 ---
