@@ -1,9 +1,5 @@
 ## 🎉 Hi there! This repo is my little corner on GitHub to share my projects, skills, and learning adventures.
 
-###
-
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)"  />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
-
-###
