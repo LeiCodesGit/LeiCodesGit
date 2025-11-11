@@ -7,34 +7,22 @@ Welcome to my GitHub profile! This is where I share what I build, explore, and l
 </div>
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeiCodesGit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeiCodesGit&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
 
-<table>
-  <tr>
-    <!-- Left column: Stats -->
-    <td valign="top">
-      <div align="left">
-        <!-- Top languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeiCodesGit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="200" alt="languages graph" />
-        <br>
-        <!-- GitHub stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=LeiCodesGit&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-      </div>
-    </td>
+###
 
-    <!-- Right column: Pacman contribution graph -->
-    <td valign="top">
-      <br clear="both">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeiCodesGit/LeiCodesGit/output/pacman-contribution-graph-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeiCodesGit/LeiCodesGit/output/pacman-contribution-graph.svg">
-        <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeiCodesGit/LeiCodesGit/output/pacman-contribution-graph.svg">
-      </picture>
-    </td>
-  </tr>
-</table>
+<br clear="both">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeiCodesGit/LeiCodesGit/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeiCodesGit/LeiCodesGit/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeiCodesGit/LeiCodesGit/output/pacman-contribution-graph.svg">
+</picture>
 
-
+###
 
 ---
 
