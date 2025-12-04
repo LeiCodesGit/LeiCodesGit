@@ -28,22 +28,6 @@
 
 ###
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeiCodesGit&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true"
-    height="150"
-    alt="languages graph"
-  />
-  <br>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=LeiCodesGit&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=true"
-    height="150"
-    alt="stats graph"
-  />
-</div>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
 </div>
